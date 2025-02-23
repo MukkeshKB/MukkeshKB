@@ -1,5 +1,6 @@
-## Hi there 👋
+Hey people out there👋
 
+My name is Mukkesh Kumar. I'm pursuing my Master's in Business Analytics at IISc, Bangalore. My subject interests are in the areas of ML, DL, NLP, RL, and Finance. If anyone wants to collaborate to work on the projects in the data science domain, you can ping me.
 <!--
 **MukkeshKB/MukkeshKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
